@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission12_dc455.props" />
+</Project>
